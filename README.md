@@ -4,6 +4,6 @@ This code takes a folder of various json files as input and outputs a csv file t
 
 # How to run code in terminal
 
-'''
+```
 python3 -i /Users/main/folderPathway -o test.csv
-'''
+```
